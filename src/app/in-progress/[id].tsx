@@ -6,7 +6,7 @@ export default function InProgress() {
 
   return (
     <View style={{ flex: 1, justifyContent: "center" }}>
-      <Text>ID InProgress: {params.id}</Text>
+      <Text>ID In Progress: {params.id}</Text>
 
       <Button title="Voltar" onPress={() => router.back()} />
     </View>
