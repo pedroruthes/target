@@ -16,6 +16,6 @@
       "bundleIdentifier": "com.pedroruthes.target",
       "icon": "./assets/ios-icon.png"
     },
-    "plugins": ["expo-router"]
+    "plugins": ["expo-router", "expo-font", "expo-sqlite"]
   }
 }
